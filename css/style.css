@@ -1,0 +1,39 @@
+body {
+	padding: 20px 10px;
+  font-family: times new roman;
+	max-width: 2000px;
+	font-size: 1.4em;
+  background-color: teal;
+}
+h1 {
+  font-family: courier;
+	text-align: center;
+	color: white;
+}
+
+h2 {
+  background-color: grey;
+  text-align: center;
+	margin: auto;
+  border: 1px solid white;
+  color: white;
+}
+h3 {
+  font-family: courier;
+  text-align: left;
+  margin: auto;
+  background-color: blue;
+  color: black;
+}
+
+.notes {
+  background-color: green;
+  color: white;
+  border: 1px solid white;
+  display: block;
+}
+
+ul {
+  list-style-type: none;
+}
+  
